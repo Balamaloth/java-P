@@ -1,101 +1,123 @@
-<!-- ================== HERO SECTION ================== -->
+<!-- ================== AI FULL STACK HERO ================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:8A2BE2&height=220&section=header&text=Balakrishna%20Maloth&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C0FF&height=220&section=header&text=Balakrishna%20Maloth&fontSize=40&fontColor=ffffff" />
 
-<img height="240" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img height="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 </div>
 
 <h3 align="center">
-💻 Full-Stack Python Developer | 🤖 AI Enthusiast | 🌐 Web Innovator
+🤖 AI-Powered Full-Stack Python Developer  
 </h3>
 
 <p align="center">
-Building intelligent, scalable, and real-world applications using <b>Python, Web & AI</b>
+Building <b>intelligent, scalable, AI-driven web applications</b> using Python, Machine Learning, and modern web technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech – Computer Science & Information Technology**  
-🏫 *Sri Indu College of Engineering & Technology, Hyderabad*  
-
-🚀 Passionate about **Full-Stack Development & Artificial Intelligence**  
-🧠 Love turning ideas into **AI-powered web applications**  
-🌱 Continuous learner exploring **Python, AI, and scalable systems**  
-🎯 Goal: Become a **Full-Stack Python + AI Engineer**
+🎓 **B.Tech – Computer Science & IT**  
+🚀 Focused on **Python Full-Stack Development with AI Integration**  
+🧠 Strong interest in **Machine Learning, NLP, and AI APIs**  
+🌱 Constantly building real-world, production-ready AI systems  
+🎯 Goal: **AI Full-Stack Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills (AI-Focused)
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🐍 Backend (Python)
+- Python (Advanced)
+- Django / FastAPI
+- REST APIs & WebSockets
+- JWT Authentication
+
+### 🤖 Artificial Intelligence
+- Machine Learning (scikit-learn)
+- Deep Learning (TensorFlow / PyTorch)
+- NLP (Chatbots, Text Analysis)
+- Computer Vision (OpenCV)
+- Generative AI (LLMs, OpenAI APIs)
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### ⚙️ Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+- React.js
+- HTML5, CSS3, JavaScript
+- Tailwind CSS
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+- PostgreSQL / MySQL
+- MongoDB
+- Vector Databases (FAISS)
 
-### 🤖 AI & ML
-![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+### 🚀 Deployment & DevOps
+- Docker
+- Linux
+- AWS / Cloud
+- GitHub Actions (CI/CD)
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 FEATURE PROJECT (FLAGSHIP)
+
+### 🚀 **AI-Powered Social Intelligence Platform** *(Big Project)*
+
+> A **full-stack AI social platform** that combines **chat, content sharing, and intelligent recommendations**, inspired by WhatsApp + Instagram + AI.
+
+### 🔑 Key Features
+- 🤖 **AI Chatbot Assistant** (NLP-based)
+- 🧠 **Smart Content Recommendations**
+- 🛡️ **AI Content Moderation**
+- 👁️ **Face Recognition Login (Optional)**
+- 🔐 JWT Authentication & Privacy Controls
+- ⚡ Real-time Chat using WebSockets
+- 📊 User Analytics with AI insights
+
+### 🛠️ Tech Stack
+- **Backend:** FastAPI + Python  
+- **AI:** scikit-learn, TensorFlow, OpenAI API  
+- **Frontend:** React + Tailwind  
+- **Database:** PostgreSQL + MongoDB  
+- **AI Search:** FAISS Vector DB  
+- **Deployment:** Docker + AWS  
+
+🎯 **Why this project matters:**  
+✔ Enterprise-level architecture  
+✔ AI + Full-Stack integration  
+✔ Highly valued by recruiters  
+
+---
+
+## 🧪 Other AI-Based Projects
 
 ### 🤖 AI Chatbot Web App
-AI-powered chatbot using **Python + NLP + FastAPI**  
-✔ Real-time responses  
-✔ API-based architecture  
+- NLP-based conversational AI
+- FastAPI + ML integration
 
-### 🌿 Guava Disease Detection (CNN)
-Deep Learning model to detect plant diseases  
-✔ Image classification  
-✔ Smart agriculture use-case  
+### 🌿 Plant Disease Detection (CNN)
+- Image classification using Deep Learning
+- Real-world agriculture use case
 
-### 🌐 Full-Stack Portfolio Website
-Personal portfolio built with **React + Tailwind**  
-✔ Responsive UI  
-✔ Deployed on Netlify  
-
-### 📋 Task Manager App
-Productivity app using **Node.js & MongoDB**  
-✔ CRUD operations  
-✔ Authentication system  
+### 📄 AI Resume Screening System
+- NLP-based resume classification
+- HR automation tool
 
 ---
 
-## 📜 Training & Certifications
-
-- 🏆 **Python Full Stack Developer** — Hyderabad *(2025 – Present)*  
-- 🎓 **Developer Program** — *Pupilfirst School*  
-- 📘 **Machine Learning with Python** — Coursera  
-- ⚛️ **React & Modern Frontend** — Udemy  
+## 📌 What I’m Currently Building
+- 🔹 AI APIs for real-time applications  
+- 🔹 Full-Stack + LLM integration  
+- 🔹 Scalable AI deployment using Docker  
 
 ---
 
-## 🌱 Currently Learning
-
-- ✅ Python + AI Integration  
-- ✅ Django & FastAPI  
-- ✅ AI Model Deployment  
-- ✅ Cloud & DevOps Basics  
+## 🎯 Target Roles
+- **AI Full-Stack Python Developer**
+- **Backend + AI Engineer**
+- **Machine Learning Engineer (Junior)**
+- **FastAPI / Django Developer (AI Projects)**
 
 ---
 
@@ -112,7 +134,7 @@ Productivity app using **Node.js & MongoDB**
 
 <p align="center">
 <a href="mailto:balasainik3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://linkedin.com/in/BalaMaloth">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -125,7 +147,8 @@ Productivity app using **Node.js & MongoDB**
 ---
 
 <h3 align="center">
-✨ “Code with logic. Build with vision. Scale with AI.” 🚀
+💡 “AI is not the future — it’s the present. Build it wisely.” 🚀
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C0FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:0F2027&height=120&section=footer"/>
+
