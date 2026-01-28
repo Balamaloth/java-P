@@ -127,16 +127,7 @@ Building <b>intelligent, scalable, AI-driven web applications</b> using Python, 
 - **Machine Learning Engineer (Junior)**
 - **FastAPI / Django Developer (AI Projects)**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BalaMaloth&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaMaloth&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
